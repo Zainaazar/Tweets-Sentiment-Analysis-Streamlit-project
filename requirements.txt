@@ -1,0 +1,11 @@
+gensim
+emoji
+contractions
+nltk
+numpy
+pandas
+scikit-learn
+tensorflow
+seaborn
+matplotlib
+kagglehub
